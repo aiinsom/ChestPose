@@ -9,3 +9,7 @@ libavformat-dev
 libavutil-dev
 libsrtp2-dev
 pkg-config
+libavdevice-dev
+libavfilter-dev
+libswscale-dev
+libswresample-dev
