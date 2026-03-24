@@ -107,7 +107,7 @@ with st.sidebar:
         -  โน้มไหล่ไปด้านหน้า
         -  SID 180 cm
         -  References point = Inferior angle of scapula
-        -  Center ray = T6
+        -  Center ray = T7
         """)
     else:
         st.markdown("""
@@ -117,7 +117,7 @@ with st.sidebar:
         -  ศีรษะอยู่ตรงกลาง
         -  SID 100 cm
         -  References point = Inferior angle of scapula
-        -  Center ray = T6
+        -  Center ray = T7
         """)
 
 # Instructions
